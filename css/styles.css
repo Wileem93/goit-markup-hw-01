@@ -1,0 +1,275 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.link {
+    text-decoration: none;
+}
+.list {
+    list-style: none;
+}
+
+.header-link {
+font-weight: 500;
+font-size: 14px;
+line-height: 1.33;
+letter-spacing: 0.02em;
+color: #212121;
+}
+.header-link:hover,
+.header-link:focus {
+    color: #2196F3;
+}
+.header-link:focus {
+    color: #2196F3;
+}
+
+.header-tel {
+font-weight: 500;
+font-size: 14px;
+line-height: 1.33;
+letter-spacing: 0.02em;
+color: #757575;
+}
+.header-mailto {
+font-weight: 500;
+font-size: 14px;
+line-height: 1.33;
+letter-spacing: 0.02em;
+color: #2196F3;
+}
+/*-------------------------HEDER-----------------------*/
+.header-home,
+.search{
+    background-color: #2F303A;
+}
+.header-top-text {
+font-weight: 900;
+font-size: 44px;
+line-height: 1.5;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.header-button {
+font-family: inherit;
+font-weight: 700;
+font-size: 1.33;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+color: #FFFFFF;
+    }
+.header-button:hover { 
+color: #FFFFFF; 
+background-color:#2196F3 ;
+}
+
+.hore-list {
+
+}
+/*-------------------------ABOUT-----------------------*/
+
+.about-list {
+font-weight: 700;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;    
+}
+.about-list-Text {
+font-weight: 400;
+font-size: 14px;
+line-height: 1.7;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.about-list-top {
+font-weight: 700;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+.about-list-top-text {
+font-weight: 400;
+font-size: 14px;
+line-height: 1.7;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.about-hero-text {
+font-weight: 700;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+.about-hero-text-one {
+font-weight: 400;
+font-size: 14px;
+line-height: 1.7;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.about-text {
+font-weight: 700;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+.about-text-two {
+font-weight: 400;
+font-size: 14px;
+line-height: 1.7px;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.about-title {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.16;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.hero-list-three {
+}
+.hero-list-four {
+
+}
+.list {
+}
+/*-------------------------PERSONNEL-----------------------*/
+.personnel-team {
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.personnel-list {
+}
+.personnel-neme{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.18;
+text-align: center;
+letter-spacing: 0.03em;    
+color: #212121;
+}
+.personnel-product{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.18;
+text-align: center;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.personnel-img-a {
+position: absolute;
+width: 270px;
+height: 260px;
+left: 215px;
+top: 1635px;
+background: url(4853.jpg);
+border-radius: 0px;
+}
+
+.personnel-neme-v {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.18;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+
+}
+.personnel-frontend {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.18;
+text-align: center;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.personnel-neme-n{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.18;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+
+}
+.personnel-marketing{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.18;
+text-align: center;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.personnel-img-q{
+    
+}
+
+.personnel-neme-m{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.18;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+
+}
+.personnel-position-ui{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.18;
+text-align: center;
+letter-spacing: 0.03em;
+color: #757575;
+}
+/*-------------------------SEARCH-----------------------*/
+.search-WebStudio{
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
+letter-spacing: 0.03em;
+color: #2196F3;
+}
+.search-maps {
+font-weight: 400;
+font-size: 14px;
+line-height: 1.7;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+
+}
+.search-mailto {
+font-weight: 400;
+font-size: 14px;
+line-height: 1.7;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);
+
+}
+.search-tel {
+font-weight: 400;
+font-size: 14px;
+line-height: 1.7;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);
+
+}
